@@ -514,4 +514,11 @@ When the screen is off, the torch can be enabled with one of the following key c
     <string name="other_settings">Other options</string>
     <string name="quick_settings">Quick Settings</string>
 
+    <!-- How device should react to lid events -->
+    <string name="lid_behavior_title">Smart cover</string>
+    <string name="lid_behavior_summary">Control device behavior when cover is opened/closed</string>
+    <string name="lid_behavior_none">None</string>
+    <string name="lid_behavior_lock">Lock/Unlock</string>
+    <string name="lid_behavior_sleep">Sleep/Wake</string>
+
 </resources>
