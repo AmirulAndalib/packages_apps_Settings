@@ -518,4 +518,8 @@ When the screen is off, the torch can be enabled with one of the following key c
     <string name="custom_timeout_summary_30mins">30 minutes</string>
     <string name="custom_timeout_summary_1hour">1 hour</string>
 
+    <!-- Desktop Mode Settings -->
+    <string name="desktop_mode_pc_title">Desktop Mode</string>
+    <string name="desktop_mode_pc_summary">Emulate device to PC or external display</string>
+
 </resources>
