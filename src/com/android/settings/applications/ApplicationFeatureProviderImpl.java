@@ -213,15 +213,6 @@ public class ApplicationFeatureProviderImpl implements ApplicationFeatureProvide
                 // party keyboard doesn't support it
                 "com.android.inputmethod.latin",
 
-                // Replacing WebView is not supported
-                "app.vanadium.webview",
-
-                // Only bundled camera can handle some of camera intents
-                "app.grapheneos.camera",
-
-                // Disabling GmsCompat app breaks the GmsCompat layer
-                com.android.internal.gmscompat.GmsCompatApp.PKG_NAME,
-
                 // EuiccSupportPixel handles firmware updates of embedded secure element that is
                 // used for eSIM, NFC, Felica etc
                 PackageId.EUICC_SUPPORT_PIXEL_NAME,
